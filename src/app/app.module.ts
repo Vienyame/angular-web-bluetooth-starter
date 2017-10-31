@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { WebBluetoothModule } from '@manekinekko/angular-web-bluetooth';
 
 import { AppComponent } from './app.component';
-import { BatteryLevelComponent } from './battery-level/battery-level.component';
+import { BatteryLevelComponent } from './components/battery-level/battery-level.component';
 
 @NgModule({
   declarations: [
